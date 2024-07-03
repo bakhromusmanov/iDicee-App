@@ -19,7 +19,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         SetRandomDices()
     }
-
     
     fileprivate func SetRandomDices() {
         diceImageView1.image = allDices.randomElement()

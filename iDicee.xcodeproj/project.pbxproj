@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D03931D52C2F2CCF00A59028 /* iDicee App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iDicee App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D03931D52C2F2CCF00A59028 /* iDicee.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iDicee.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D03931D82C2F2CCF00A59028 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D03931DA2C2F2CCF00A59028 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		D03931DC2C2F2CCF00A59028 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		D03931D62C2F2CCF00A59028 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D03931D52C2F2CCF00A59028 /* iDicee App.app */,
+				D03931D52C2F2CCF00A59028 /* iDicee.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D03931D42C2F2CCF00A59028 /* iDicee App */ = {
+		D03931D42C2F2CCF00A59028 /* iDicee */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D03931E92C2F2CD000A59028 /* Build configuration list for PBXNativeTarget "iDicee App" */;
+			buildConfigurationList = D03931E92C2F2CD000A59028 /* Build configuration list for PBXNativeTarget "iDicee" */;
 			buildPhases = (
 				D03931D12C2F2CCF00A59028 /* Sources */,
 				D03931D22C2F2CCF00A59028 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "iDicee App";
+			name = iDicee;
 			productName = "iDicee App";
-			productReference = D03931D52C2F2CCF00A59028 /* iDicee App.app */;
+			productReference = D03931D52C2F2CCF00A59028 /* iDicee.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D03931D02C2F2CCF00A59028 /* Build configuration list for PBXProject "iDicee App" */;
+			buildConfigurationList = D03931D02C2F2CCF00A59028 /* Build configuration list for PBXProject "iDicee" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D03931D42C2F2CCF00A59028 /* iDicee App */,
+				D03931D42C2F2CCF00A59028 /* iDicee */,
 			);
 		};
 /* End PBXProject section */
@@ -346,7 +346,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D03931D02C2F2CCF00A59028 /* Build configuration list for PBXProject "iDicee App" */ = {
+		D03931D02C2F2CCF00A59028 /* Build configuration list for PBXProject "iDicee" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D03931E72C2F2CD000A59028 /* Debug */,
@@ -355,7 +355,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D03931E92C2F2CD000A59028 /* Build configuration list for PBXNativeTarget "iDicee App" */ = {
+		D03931E92C2F2CD000A59028 /* Build configuration list for PBXNativeTarget "iDicee" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D03931EA2C2F2CD000A59028 /* Debug */,
